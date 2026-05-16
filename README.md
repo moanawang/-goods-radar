@@ -29,7 +29,7 @@ AI-powered product discovery platform for tracking trending products and generat
 
 Live Demo:
 
-https://your-project.vercel.app
+[https://your-project.vercel.app](https://goods-radar.vercel.app)
 
 ---
 
@@ -39,11 +39,7 @@ https://your-project.vercel.app
 
 ![Dashboard](./public/dashboard.png)
 
-### Product Analysis
 
-![Analysis](./public/analysis.png)
-
----
 
 ## 📦 Getting Started
 
