@@ -38,7 +38,7 @@ Live Demo:
 ### Dashboard
 
 <p align="center">
-  <img src="public/radar.png" width="900">
+  <img src="assets/radar.png" width="900">
 </p>
 
 
