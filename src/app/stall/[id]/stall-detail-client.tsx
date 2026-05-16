@@ -84,7 +84,7 @@ export function StallDetailClient({ id }: StallDetailClientProps) {
     <main className="min-h-screen bg-white text-slate-950">
       <div className="relative h-64 w-full overflow-hidden bg-emerald-50">
         <Image
-          src={stall.imageUrl || "/stall-placeholder.jpg"}
+          src={stall.imageUrl || "/poster.png"}
           alt={`${stall.stallNumber} ${stall.ownerName} 摊位照片`}
           fill
           priority
