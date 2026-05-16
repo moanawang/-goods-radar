@@ -11,7 +11,7 @@ export default function MapPage() {
 
       <div className="w-full overflow-hidden bg-emerald-50">
         <Image
-          src="/market-map.jpg"
+          src="/market-map.png"
           alt="动漫周边市集地图"
           width={780}
           height={1180}
