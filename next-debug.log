@@ -1,0 +1,14 @@
+
+> class1@0.1.0 dev
+> next dev -p 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.19.114.225:3000
+- Environments: .env.local
+✓ Ready in 380ms
+Creating turbopack project {
+  dir: 'C:\\Users\\moana\\Documents\\trae_projects\\class1',
+  testMode: true
+}
+
